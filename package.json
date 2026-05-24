@@ -1,0 +1,21 @@
+{
+  "name": "auth-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "drizzle-orm": "latest",
+    "lucide-react": "latest",
+    "next": "15.0.0",
+    "postgres": "latest",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3"
+  }
+}
